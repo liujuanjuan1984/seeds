@@ -7,3 +7,7 @@ seeds of quorum
 - seeds data [seeds.json](./data/seeds.json)
 
     ```{group_id:seed}```
+
+- groupsinfo data [groupsinfo.json](./data/groupsinfo.json)
+
+    ```{group_id:{key:value}}```
