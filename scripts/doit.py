@@ -8,6 +8,17 @@ seedsfile = os.path.join(father_dir, "data", "seeds.json")
 infofile = os.path.join(father_dir, "data", "groupsinfo.json")
 
 
+def merge_seeds():
+    seeds = JsonFile(seedsfile).read()
+    oldseeds = JsonFile(
+        r"D:\Jupyter\rumpy\examples\search_seeds\data\search_seeds_and_joined_data_temp.json"
+    ).read({})
+    for gid in oldseeds:
+        if gid not in seeds:
+            seeds[gid] = oldseeds[gid]["seed"]
+    JsonFile(seedsfile).write(seeds)
+
+
 def remove_test_seeds():
     seeds = JsonFile(seedsfile).read()
     newseeds = {}
@@ -57,6 +68,7 @@ def init_mdfile(gids):
 
 
 if __name__ == "__main__":
+    # merge_seeds()
     remove_test_seeds()
     groupseeds = search_groups()
     init_mdfile(groupseeds)
