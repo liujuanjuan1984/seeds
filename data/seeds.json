@@ -2601,5 +2601,23 @@
   "cipher_key": "3b2a7e6d4e638abb6bb1435dd6fd046728aec8be488ba96df8f0d4287dde8dcb",
   "app_key": "group_timeline",
   "signature": "30440220163ff5dd200d26e279d2a2fd4e74a8c8b81cb7db63c3eeaa0a94307525275bc102202962281783f8e56675badee4121e4c3290453efed652a79e3523d9a5b4db41bf"
+ },
+ "0be13ee2-10dc-4e3a-b3ba-3f2c440a6436": {
+  "genesis_block": {
+   "BlockId": "5bc74b43-8900-41c1-aba9-87e5f78ef8d6",
+   "GroupId": "0be13ee2-10dc-4e3a-b3ba-3f2c440a6436",
+   "ProducerPubKey": "CAISIQJz0BOWijsH4xQ/iCr63XBeYmL/b4nyaq59lsyU3hNNRQ==",
+   "Hash": "m56DYS7BU6qgEvkkZuyJDoRPjatNcvvVs/Z4RVy4gRc=",
+   "Signature": "MEYCIQCbmgmZ5hpiHLuSe8vML/tVJQoIXPYC1ymZhRKL2XVB8AIhAPeZ9OuS/x3IVZyyKalKmyb1PMo9vJP10kvBR3PESJv4",
+   "TimeStamp": "1646907500507559500"
+  },
+  "group_id": "0be13ee2-10dc-4e3a-b3ba-3f2c440a6436",
+  "group_name": "RUM流动池与汇率",
+  "owner_pubkey": "CAISIQJz0BOWijsH4xQ/iCr63XBeYmL/b4nyaq59lsyU3hNNRQ==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "f54aeb563cb9d03ce4af15a12b4318ccd8f2694988b237e6dca72c395b76e6bb",
+  "app_key": "group_timeline",
+  "signature": "3046022100aa91597687815b064ac3a7cda3644eeb56c87add87fab36e7545c628e2f052f8022100e92a55e279624c8bb6ce5458abbfd2ad7a655bcb21e76571bd8b262dd6eb1f7e"
  }
 }

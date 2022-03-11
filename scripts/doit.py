@@ -25,10 +25,10 @@ def remove_test_seeds():
 
     for gid in info:
         if "abandoned" not in info[gid]:
-            info[gid]['abandoned'] = False 
+            info[gid]["abandoned"] = False
         # old groups had removed.
         if gid not in seeds:
-            info[gid]['abandoned'] = True 
+            info[gid]["abandoned"] = True
 
     JsonFile(infofile).write(info)
 
@@ -42,17 +42,24 @@ def remove_test_seeds():
 
     JsonFile(seedsfile).write(newseeds)
 
+
 def search_groups(blocks_num=50, last_update_days=-30):
     groupsinfo = JsonFile(infofile).read()
+    last_update = f"{Stime.days_later(datetime.date.today(),last_update_days)}"
     gids = []
     for group_id in groupsinfo:
         if groupsinfo[group_id]["highest_height"] >= blocks_num:
-            if (
-                groupsinfo[group_id]["last_update"]
-                >= f"{Stime.days_later(datetime.date.today(),last_update_days)}"
-            ):
+            if groupsinfo[group_id]["last_update"] >= last_update:
                 gids.append(group_id)
     return gids
+
+
+def _check_name(name):
+    names = ["测试", "test", "mytest", "去中心"]
+    for i in names:
+        if i in name:
+            return False
+    return True
 
 
 def init_mdfile(gids):
@@ -63,7 +70,12 @@ def init_mdfile(gids):
     for gid in gids:
         seed = seeds.get(gid)
         if not seed:
-            continue 
+            continue
+
+        name = seed["group_name"]
+        if not _check_name(name):
+            continue
+
         lines.extend(
             [
                 f'### {seed["group_name"]}\n\n',
@@ -81,5 +93,5 @@ def init_mdfile(gids):
 if __name__ == "__main__":
     # merge_seeds()
     remove_test_seeds()
-    groupseeds = search_groups()
+    groupseeds = search_groups(blocks_num=20, last_update_days=-14)
     init_mdfile(groupseeds)
