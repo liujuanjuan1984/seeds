@@ -1,8 +1,8 @@
 ### 2022 进度条 YearProgress 2022
 
-group_timeline | 区块高度: 264
+group_timeline | 区块高度: 269
 
-2021-12-31 创建 | 2022-03-09 更新
+2021-12-31 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "97e39fa3-68fb-414f-ace6-d5d6646acb02", "GroupId": "0569d54e-603e-4526-96ce-0c1f9b2a72e1", "ProducerPubKey": "CAISIQI0jTQUbRxM0cVIqUvDUeTnMLUq170s82ZUIss5qIhtDA==", "Hash": "wFPscLlltiWJiczo7r9jchO407iz8TAAoM5YFf1fNtk=", "Signature": "MEQCIFthym0l/5RoVXBC4ovjIghi/FWKI/wDPcf1RjCZcmHXAiB+X/Ge2GhenhHFFJq4mUz69kAWlGYcZfrXKUkszxsgyQ==", "TimeStamp": "1640892121287972800"}, "group_id": "0569d54e-603e-4526-96ce-0c1f9b2a72e1", "group_name": "2022 进度条 YearProgress 2022", "owner_pubkey": "CAISIQI0jTQUbRxM0cVIqUvDUeTnMLUq170s82ZUIss5qIhtDA==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "f9fc88aecfd263cb2326d26bba9f2a23718aa78eeca8cfb019f871f3dca24a2b", "app_key": "group_timeline", "signature": "3045022100dfc0cce49b10ec4ee63e3a0e3bc1d91cd171ab8d70e6d247f73617de340063ce02202dae4ac9b01d8ace0823ce0b0b0d20515a2a71f673cf6ee642e7d6a56f9f3988"}
@@ -20,9 +20,9 @@ group_timeline | 区块高度: 75
 
 ### BTC价格
 
-group_timeline | 区块高度: 553
+group_timeline | 区块高度: 632
 
-2021-12-29 创建 | 2022-03-11 更新
+2021-12-29 创建 | 2022-03-12 更新
 
 ```seed
 {"genesis_block": {"BlockId": "c69d7931-c166-4d73-83ff-34f7caaa92dc", "GroupId": "fed57711-8aed-4944-bf9b-d15420d17f4b", "ProducerPubKey": "CAISIQNiqmra5rmKxpionfDXS7u47Tx1MDDOFOtGt6rYdAVlvw==", "Hash": "sgbZ+oGv7nVtIqcE3Gtt6ZF3YSqI/DjeQXsqiTfPcyw=", "Signature": "MEUCIQDc1ejDBdZGNQUqj+ry8Wsd6E9puYJ4yL1sCr3772I69wIgDdWwXTibhRav9sjpVrMlusaeLvW1+rneOdbTc/GJBKw=", "TimeStamp": "1640752034995337000"}, "group_id": "fed57711-8aed-4944-bf9b-d15420d17f4b", "group_name": "BTC价格", "owner_pubkey": "CAISIQNiqmra5rmKxpionfDXS7u47Tx1MDDOFOtGt6rYdAVlvw==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "e4500ce0118e9957874a807558174a5cd241a78b61da2e826d5a8328e9894eca", "app_key": "group_timeline", "signature": "3045022100da1fdf585e880367bb44254c47e753c9731d714a7b58ba4f4783b262c3013799022004e96b7ecbcdadf289a898c21ccb74decc61a8792e0548fd3c543fe3000e809c"}
@@ -30,9 +30,9 @@ group_timeline | 区块高度: 553
 
 ### ETH价格
 
-group_timeline | 区块高度: 547
+group_timeline | 区块高度: 627
 
-2021-12-29 创建 | 2022-03-11 更新
+2021-12-29 创建 | 2022-03-12 更新
 
 ```seed
 {"genesis_block": {"BlockId": "398cf280-a9f4-4d31-930e-8e468fd5a519", "GroupId": "b280446c-3562-4277-b14e-be7a15bb4718", "ProducerPubKey": "CAISIQIcV4MyHBR3k0HiC/yBIMRXWJytUvD2N2oC4ZnhFXTvJg==", "Hash": "sn0YyPs95c9FWCRz8Ki591mhrcDELvJbT/L2E0pdVHE=", "Signature": "MEYCIQCpcvtMr99rpJrjw2D3fXSbJj72KqjMt/b+hPySz/wJLAIhAKCrwPlnwyaSDDEc8WoPYY0eW77xS+nxplkgARBweawW", "TimeStamp": "1640752068702376100"}, "group_id": "b280446c-3562-4277-b14e-be7a15bb4718", "group_name": "ETH价格", "owner_pubkey": "CAISIQIcV4MyHBR3k0HiC/yBIMRXWJytUvD2N2oC4ZnhFXTvJg==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "9208a37ae2685452855f7b227b1f07c9d88cbba0532b5841d2773ed14c7695ce", "app_key": "group_timeline", "signature": "3045022100dbb7fbc0692842896cd58cd8703a210bea71a8b8004a6b98df3f37eccd54fc5302201d781cd78d1d6b5b7e2d9e25aff8c043004c04c273167414d8c92e914295c429"}
@@ -50,7 +50,7 @@ group_post | 区块高度: 340
 
 ### Huoju在Rum上说了啥
 
-group_timeline | 区块高度: 546
+group_timeline | 区块高度: 553
 
 2021-12-28 创建 | 2022-03-11 更新
 
@@ -70,9 +70,9 @@ group_post | 区块高度: 207
 
 ### RUM产品建议与bug反馈
 
-group_post | 区块高度: 322
+group_post | 区块高度: 323
 
-2021-11-22 创建 | 2022-03-09 更新
+2021-11-22 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "ede51867-559f-4ef6-aca6-3296c9825363", "GroupId": "a9223277-39ff-40d1-9908-3ecba139e2c0", "ProducerPubKey": "CAISIQIxG1a23xQfgvhLqeBtpNAvSiCe1o48DNnauQQ+6eyMwg==", "Hash": "4AZmQB3Ydbgn1jHeoAfGfnEXSFjZZhTwJ1J1Lr4Erh0=", "Signature": "MEUCIQDLmuU2VWJqZ9nZw6bhVKFPSdxd3D8sGzVvWBw5OuRhnwIgNZmseqfhEIZ/8/fhnBLrKW8Yzqzvf/fjwg5nHe6ipz8=", "TimeStamp": "1637571648704703300"}, "group_id": "a9223277-39ff-40d1-9908-3ecba139e2c0", "group_name": "RUM产品建议与bug反馈", "owner_pubkey": "CAISIQIxG1a23xQfgvhLqeBtpNAvSiCe1o48DNnauQQ+6eyMwg==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "da4cb54661aaf2b7c710cc0af0a40aaa7c22bc622a9fda2fdaf0acb7c5c94934", "app_key": "group_post", "signature": "30450221008c3ad34c29017a906cd26de9d2e1548795bfb383523f3e71df4ff6822d321f41022079d0392f3b0d70c9c7458d8c17259fd008a5d8d36f4f0059bd6f8d5e57c90a0e"}
@@ -80,9 +80,9 @@ group_post | 区块高度: 322
 
 ### RUM产品更新与开发进展
 
-group_timeline | 区块高度: 369
+group_timeline | 区块高度: 370
 
-2021-11-22 创建 | 2022-03-10 更新
+2021-11-22 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "cb11421c-1ab5-4e2a-b002-124b3371475f", "GroupId": "80fd558d-b158-48af-9980-d9ac9280a29b", "ProducerPubKey": "CAISIQOW1guhp9nkIU5lLFmVsqmhKNhRBd+N/N3kSQMFfK6AOw==", "Hash": "UH2Y28GXHWyveY1shXQA3eVBheZPqi/CswGZBNbLk78=", "Signature": "MEQCIDM7fPqN9qxgWclAvReicqqCPHwcPyVpppQXqkXTgjBaAiBVB2tbhg7wLp5NH+abloFCVHHnew/CHHuOC98WH3tlYQ==", "TimeStamp": "1637572035228978200"}, "group_id": "80fd558d-b158-48af-9980-d9ac9280a29b", "group_name": "RUM产品更新与开发进展", "owner_pubkey": "CAISIQOW1guhp9nkIU5lLFmVsqmhKNhRBd+N/N3kSQMFfK6AOw==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "31c0d024ad884be6c267a5758f03e412183ec97d56c201df63830882d037bd37", "app_key": "group_timeline", "signature": "304502205edfc3209c0b079336b91bd3c430f6b3b41634def9e15a984b9097faabbf7a40022100bd3edee6fa506fa9f08ffef93e6b900540576528455661aae91fda13bc233971"}
@@ -90,9 +90,9 @@ group_timeline | 区块高度: 369
 
 ### RUM开发者社区
 
-group_post | 区块高度: 76
+group_post | 区块高度: 79
 
-2022-02-16 创建 | 2022-03-09 更新
+2022-02-16 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "da7f9c1e-c19d-44e2-9317-a1d0f7181bed", "GroupId": "3f0c63ca-7aaa-4ce3-895d-b470c51e1885", "ProducerPubKey": "CAISIQK8NJK48EXSSv1Mip2H1sShXaAfmQxjymtRGvMIwKZJTw==", "Hash": "EOg9DZMj4SBrAteLCcYDodxlPKP+K3w5pVqjtpE65Bw=", "Signature": "MEQCIEjc1vQhbnofO9KexQenG93VaEBNL4VPBs+B3UZRNjSgAiBh/J0n/0kZm7ad+l6qsxBxKM2awbgutFw2WHrryVRoHg==", "TimeStamp": "1645024551199919156"}, "group_id": "3f0c63ca-7aaa-4ce3-895d-b470c51e1885", "group_name": "RUM开发者社区", "owner_pubkey": "CAISIQK8NJK48EXSSv1Mip2H1sShXaAfmQxjymtRGvMIwKZJTw==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "7f2ddf79d54764043932f2fc7f60c9bfa785e71100246aedfb1eb44cb0f8ba66", "app_key": "group_post", "signature": "304402206b47277817e8f689b0368519b741f646ac3ecee4c8b0c3ce407c3fdf2979eddb0220185907f10046b5b275f76a60e8972c65ab0ea767d82a7c0b923a0029fa9e8f5a"}
@@ -120,9 +120,9 @@ group_timeline | 区块高度: 245
 
 ### xiaolai在Rum上说了啥
 
-group_timeline | 区块高度: 35
+group_timeline | 区块高度: 36
 
-2021-12-29 创建 | 2022-03-09 更新
+2021-12-29 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "8d0d4c68-c4e9-44d8-a590-a8b6b75bfa9b", "GroupId": "56aaa792-0254-4d3b-a808-d49deb2dc58a", "ProducerPubKey": "CAISIQOLzPbIC8sTbQcIlaAVshtwPL4otPLmgsZ5kE84JRU0PQ==", "Hash": "hmqA0m94hrLys5tZG+NzPHQzjnw0LmSxh09EFpXIK98=", "Signature": "MEUCIQD7RFUH/4FzD0TDF8C6sflDfMh4OIXVzC8OfPe+kjStMwIgdDsDzRpjN8dMJerfv4PYw3bxL01J9BWdi7LLmjgAy3s=", "TimeStamp": "1640742616655959400"}, "group_id": "56aaa792-0254-4d3b-a808-d49deb2dc58a", "group_name": "xiaolai在Rum上说了啥", "owner_pubkey": "CAISIQOLzPbIC8sTbQcIlaAVshtwPL4otPLmgsZ5kE84JRU0PQ==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "0374c9407e16b3ec724bab88003ac28f7905ba78159ecdd33c3550b4e5e3e629", "app_key": "group_timeline", "signature": "3046022100e39ce3a369d425a154230d33593d67d2c253ee05a821ad90badc3fff0489532c02210087e4d2d4505f650a22d157e8b7574bd7fc24ddd1cf8da511e568c64d3ab4c4c8"}
@@ -140,7 +140,7 @@ group_timeline | 区块高度: 136
 
 ### 刘娟娟的朋友圈
 
-group_timeline | 区块高度: 2256
+group_timeline | 区块高度: 2257
 
 2021-11-22 创建 | 2022-03-11 更新
 
@@ -220,9 +220,9 @@ group_timeline | 区块高度: 113
 
 ### 杰克深的朋友圈
 
-group_timeline | 区块高度: 229
+group_timeline | 区块高度: 230
 
-2021-12-10 创建 | 2022-03-09 更新
+2021-12-10 创建 | 2022-03-12 更新
 
 ```seed
 {"genesis_block": {"BlockId": "0e3e10b7-7540-4a47-8069-bbe6bee5fd7d", "GroupId": "cfb42114-0ee1-429b-86e5-7659108972be", "ProducerPubKey": "CAISIQMo/2oAU1N/ELDjS8+nwoDBsSGMMDA+Vi5UXUTE/BVv+A==", "Hash": "PnPdknsqBfik2jA9rR6rJxrncC/TjNBa6BclWhnS2I8=", "Signature": "MEUCIQC4sUlwmnzAqhOZy7D1Ot+CuvkM/lV6XCgMBvKuKuMDPAIgUQ6nwSUfowM8/KrYWWclvFwrga4PBv7ZDzco7PULSRI=", "TimeStamp": "1639108523091426800"}, "group_id": "cfb42114-0ee1-429b-86e5-7659108972be", "group_name": "杰克深的朋友圈", "owner_pubkey": "CAISIQMo/2oAU1N/ELDjS8+nwoDBsSGMMDA+Vi5UXUTE/BVv+A==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "7b39d71f13ed086733bc9f2e4b7ca20a32d5db1737efb3c67aa80b7112b9354c", "app_key": "group_timeline", "signature": "3046022100e1cfb9ddfce9ceadb40c72a39aafad3d12005f4e8bcab43e43ada7fce2adba02022100ebc1a88faff70ab962dee421558f876594eb33fe4d284abc02cc529587631714"}
@@ -240,9 +240,9 @@ group_timeline | 区块高度: 102
 
 ### 种子大全
 
-group_timeline | 区块高度: 307
+group_timeline | 区块高度: 313
 
-2021-12-25 创建 | 2022-03-10 更新
+2021-12-25 创建 | 2022-03-12 更新
 
 ```seed
 {"genesis_block": {"BlockId": "65b3d55b-73b5-4d13-9550-4d37d53ec7d3", "GroupId": "89703dbe-93c6-4be0-ba26-dce563181194", "ProducerPubKey": "CAISIQPTrmj7NOYeFFXgxe5dHuEqQ5dEtL5WIvFD5i6jD2He+w==", "Hash": "16wubZBYp8jWpYZtAy73WsfeR3vRDADOEqIfrfi74/g=", "Signature": "MEUCIQD5UUyFPx2CzFFwCnFLN7gxfV30zQBmjS2jybSUls8yLgIgOvhOJdsGh5wrb0FmG5mGxdChSaINdyTpUZE6JVYE5hI=", "TimeStamp": "1640423797361990300"}, "group_id": "89703dbe-93c6-4be0-ba26-dce563181194", "group_name": "种子大全", "owner_pubkey": "CAISIQPTrmj7NOYeFFXgxe5dHuEqQ5dEtL5WIvFD5i6jD2He+w==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "c4dbd9726e6dc58830b29c2ba8fc0a5cd8bc66a3d3578e1da30e46445bc03747", "app_key": "group_timeline", "signature": "30450220427355d125ce8488604c0f2c4b1b7194aa20602f6c83978d6fcb330dcec41b0d022100addc072d09b6602da9c995fb3f97aad1faf0ac4851f8d4fea2519db442c211f1"}
@@ -260,7 +260,7 @@ group_timeline | 区块高度: 3442
 
 ### 种子网络一览
 
-group_post | 区块高度: 1212
+group_post | 区块高度: 1213
 
 2021-11-06 创建 | 2022-03-11 更新
 
@@ -270,9 +270,9 @@ group_post | 区块高度: 1212
 
 ### 程序猿问答
 
-group_post | 区块高度: 79
+group_post | 区块高度: 80
 
-2022-02-16 创建 | 2022-03-09 更新
+2022-02-16 创建 | 2022-03-11 更新
 
 ```seed
 {"genesis_block": {"BlockId": "039e6719-b51c-4aae-9198-fb3b562d875d", "GroupId": "7a0ff0e3-721c-4883-9479-a5377e1e79ab", "ProducerPubKey": "CAISIQIqbektDf2kBYalQ64MdUVJlowwoF4wfoBjif/3pJJAJw==", "Hash": "13+ftOkovGqfUKedhynRwv/EV0gecvPg+9lXjTy9DJk=", "Signature": "MEUCIH9X7HaUAJsu0bp2BgPw5W0wdHjavu53+bCmeGpsR1GHAiEAmoilCyOVl5DUjmdiXyVTfXzmS+Gjia3Nlba7XikwuOU=", "TimeStamp": "1645024168007211350"}, "group_id": "7a0ff0e3-721c-4883-9479-a5377e1e79ab", "group_name": "程序猿问答", "owner_pubkey": "CAISIQIqbektDf2kBYalQ64MdUVJlowwoF4wfoBjif/3pJJAJw==", "consensus_type": "poa", "encryption_type": "public", "cipher_key": "cd7b96547d44190a6b51a2aed4dc430841e489b651b45129442333a3524e0858", "app_key": "group_post", "signature": "3044022039f8c124be1606ed66f4f0cf30292966fc383c97370dc19cafe26ba4f9333dcc02205f04ff418c2de65edbe77984c135a3bc54e2f3a2f2129ee02b34413e62e9bb5a"}
@@ -330,7 +330,7 @@ group_timeline | 区块高度: 199
 
 ### RUM流动池与汇率
 
-group_timeline | 区块高度: 36
+group_timeline | 区块高度: 91
 
 2022-03-10 创建 | 2022-03-11 更新
 

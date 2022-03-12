@@ -2855,5 +2855,41 @@
   "cipher_key": "c9087dda4394773b8173658e6db122bd41e95ea6170f9d377b82a846f1d34885",
   "app_key": "group_post",
   "signature": "3045022100cc9e9249b0749e8fb58d87ed7d0c3a1295fcf497f6f6f2e4daa0e27a0009d34602207c10d4824fed748c6eb6b9cdeebfe63a2504adaea655de17bceea283527de408"
+ },
+ "7bddeb06-ea0f-4284-a958-ea973a6b631e": {
+  "genesis_block": {
+   "BlockId": "9e39e3fd-ee6f-45e8-851e-779cf4cbb2a8",
+   "GroupId": "7bddeb06-ea0f-4284-a958-ea973a6b631e",
+   "ProducerPubKey": "CAISIQIGLHKWn2C+rsNaa+Uks38cpdpg7rpayvlkELBEQ2nurw==",
+   "Hash": "6KuybreXw9udJahyEcuDk2EipRa4Ef9zDZViq7Vbb+w=",
+   "Signature": "MEUCIGWhpycGv2O1Pkjb0jQpHk11WEOmQmaNsbjR28Cpl6weAiEAuMBK+7pZ0OPwVyP9vs8I5qvUQmrV1hICi87nkKOytXg=",
+   "TimeStamp": "1646868067821880800"
+  },
+  "group_id": "7bddeb06-ea0f-4284-a958-ea973a6b631e",
+  "group_name": "随手拍",
+  "owner_pubkey": "CAISIQIGLHKWn2C+rsNaa+Uks38cpdpg7rpayvlkELBEQ2nurw==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "6e9a28962dc66c976ac515279e1c2bb1cc43beede94443577e39964c9d90b68f",
+  "app_key": "group_timeline",
+  "signature": "30440220394656a55d97347fa5a462219cb59b5e42aa9feac493de5a435b50ccdc812c6d022067ee67bd5e15d2501f06cf3aa13db1c13dd0cdb09b1190ad7c27241df3107080"
+ },
+ "25676a1f-0fd3-4e01-a2ac-71d978381c56": {
+  "genesis_block": {
+   "BlockId": "b9c6c014-a6f3-4a32-a07e-f089f891aeb8",
+   "GroupId": "25676a1f-0fd3-4e01-a2ac-71d978381c56",
+   "ProducerPubKey": "CAISIQInGa/dQYPR0VRYT6QQ/Qn1AAxbx1DCLjlqqVZB4KttPQ==",
+   "Hash": "BdybNYKssiW0AGkOqkBE3yN5DiA8RAckrIroKgpPGMI=",
+   "Signature": "MEUCIFOgf9X05mP1PZ2b0CMw/tNeDTc+rZhtaktLPoK9LFUiAiEAlE3/RjYbsMx2bRuGP908BpDLRKih8n9gwGH4uX/jYHs=",
+   "TimeStamp": "1646983120868029700"
+  },
+  "group_id": "25676a1f-0fd3-4e01-a2ac-71d978381c56",
+  "group_name": "mytest_bbs",
+  "owner_pubkey": "CAISIQInGa/dQYPR0VRYT6QQ/Qn1AAxbx1DCLjlqqVZB4KttPQ==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "46642122ad82fd7a9cc63e1dddaf6835a9ec1925d8cb224f2e4bc09e567b877e",
+  "app_key": "group_post",
+  "signature": "3045022100fab85200ebb226e550859344129f86cc30e526c423291efc7fd1d14e53c33f7102203f91bb294bd0cfece20a6bcd03bc898fa1b5d2cce943ff357ffec25b482314ca"
  }
 }

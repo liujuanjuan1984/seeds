@@ -8,7 +8,6 @@ seedsfile = os.path.join(father_dir, "data", "seeds.json")
 infofile = os.path.join(father_dir, "data", "groupsinfo.json")
 
 
-
 def search_groups(blocks_num=50, last_update_days=-30):
     groupsinfo = JsonFile(infofile).read()
     last_update = f"{Stime.days_later(datetime.date.today(),last_update_days)}"
@@ -42,7 +41,7 @@ def init_mdfile(gids):
         if not _check_name(name):
             continue
 
-        if groupsinfo[gid]['abandoned']:
+        if groupsinfo[gid]["abandoned"]:
             continue
 
         lines.extend(
@@ -57,11 +56,16 @@ def init_mdfile(gids):
         )
 
     File("seeds_toshare.md").writelines(lines)
-    otherfile = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))),"docs","rum-app","README.md")
+    otherfile = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
+        "docs",
+        "rum-app",
+        "README.md",
+    )
     print(otherfile)
     data = File(otherfile).read()
     flag = "\n## 更多种子\n"
-    lines = [data.split(flag)[0],flag,"\n"] + lines 
+    lines = [data.split(flag)[0], flag, "\n"] + lines
     File(otherfile).writelines(lines)
 
 
