@@ -2891,5 +2891,23 @@
   "cipher_key": "46642122ad82fd7a9cc63e1dddaf6835a9ec1925d8cb224f2e4bc09e567b877e",
   "app_key": "group_post",
   "signature": "3045022100fab85200ebb226e550859344129f86cc30e526c423291efc7fd1d14e53c33f7102203f91bb294bd0cfece20a6bcd03bc898fa1b5d2cce943ff357ffec25b482314ca"
+ },
+ "e35da18d-f543-4074-b3ab-3ed53345f7de": {
+  "genesis_block": {
+   "BlockId": "62237fc4-800e-4e7e-bf87-e5737cf38489",
+   "GroupId": "e35da18d-f543-4074-b3ab-3ed53345f7de",
+   "ProducerPubKey": "CAISIQPiH8uijBfRebBKYwqsVmxYIEJkSUoYZqzRrvSei3r+Bw==",
+   "Hash": "dH8/9YVn5YqksP25T3lzAzFz2PutBHSUJ3PF9ZX39E8=",
+   "Signature": "MEUCIGG+u5Cxno824uC1LXByjGGgpdocIljSmg3w+QCJOvBmAiEA/LrzOqPDnhN63eO1uL2Ib7XOKC2CuXPdx/pgzXVsDS4=",
+   "TimeStamp": "1646867994533707700"
+  },
+  "group_id": "e35da18d-f543-4074-b3ab-3ed53345f7de",
+  "group_name": "今天吃啥",
+  "owner_pubkey": "CAISIQPiH8uijBfRebBKYwqsVmxYIEJkSUoYZqzRrvSei3r+Bw==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "9dc8fdc197bb20032e2d1fd2f340f636f2ba498d90a057e3fbd1c060fc5d1e5e",
+  "app_key": "group_timeline",
+  "signature": "304402203969c4879840708a86c88840233176282c9b1340aff4631030a20e2e457c288c0220762fe2f2135ccb5463b7b34b610465f21160aa14366a97bd924dd75b60dc0927"
  }
 }
