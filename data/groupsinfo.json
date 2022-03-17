@@ -10,14 +10,14 @@
   "abandoned": true
  },
  "0569d54e-603e-4526-96ce-0c1f9b2a72e1": {
-  "highest_height": 269,
-  "last_update": "2022-03-11 20:57:58",
+  "highest_height": 270,
+  "last_update": "2022-03-15 07:55:05",
   "nodes": {
-   "CAISIQKP9poYAst1FGAHPkUbetWR23KGa2hHkDc8fEsB6g/gtQ==": "2022-03-12 09:42:46.337470",
+   "CAISIQKP9poYAst1FGAHPkUbetWR23KGa2hHkDc8fEsB6g/gtQ==": "2022-03-15 19:55:27.669894",
    "CAISIQOQGyvzm7JeEhKkQhuo6fVmUTPpPRbrovFLkvXgJXTO7g==": "2022-03-09 15:28:45.310505",
    "CAISIQIHyDp2w8bTozJE1qmniJ/2b04zUVkHLSGCJKFA1YZRpQ==": "2022-03-08 12:50:16.293224"
   },
-  "scores": 12,
+  "scores": 14,
   "abandoned": false
  },
  "e7ca1441-449a-497a-a458-dcc6631c1bd9": {
@@ -42,13 +42,13 @@
   "abandoned": false
  },
  "fed57711-8aed-4944-bf9b-d15420d17f4b": {
-  "highest_height": 786,
-  "last_update": "2022-03-14 18:35:53",
+  "highest_height": 907,
+  "last_update": "2022-03-17 11:27:27",
   "nodes": {
-   "CAISIQKa90oRUDzDqMahdVnzHvnCWdepItMehZFXyPNqG4054g==": "2022-03-14 18:37:26.761157",
+   "CAISIQKa90oRUDzDqMahdVnzHvnCWdepItMehZFXyPNqG4054g==": "2022-03-17 11:40:11.285748",
    "CAISIQPAlRcel3jnXlSl+Jqaa1iEhEKQT7ZMOnnERq13q6wzHQ==": "2022-03-09 15:28:45.368784"
   },
-  "scores": 54,
+  "scores": 112,
   "abandoned": false
  },
  "2c03a11b-b9dc-41ab-8f93-9336b914b82c": {
@@ -92,13 +92,13 @@
   "abandoned": true
  },
  "b280446c-3562-4277-b14e-be7a15bb4718": {
-  "highest_height": 781,
-  "last_update": "2022-03-14 18:35:53",
+  "highest_height": 901,
+  "last_update": "2022-03-17 11:27:27",
   "nodes": {
-   "CAISIQJqqYKWi/zM/3+PWyjooG5GKKsFUT4z9omwonsruvAakg==": "2022-03-14 18:37:26.775706",
+   "CAISIQJqqYKWi/zM/3+PWyjooG5GKKsFUT4z9omwonsruvAakg==": "2022-03-17 11:40:11.306919",
    "CAISIQO3w9g36lwmO61/Md+zR2Irn94U2/FAhemD9DZZSyGv9w==": "2022-03-09 15:28:45.442213"
   },
-  "scores": 54,
+  "scores": 111,
   "abandoned": false
  },
  "9ad52677-c4b8-4a82-8958-6641c09c1a33": {
@@ -113,24 +113,24 @@
   "abandoned": true
  },
  "fe2842cb-db6b-4e8a-b007-e83e5603131c": {
-  "highest_height": 344,
-  "last_update": "2022-03-14 10:03:38",
+  "highest_height": 346,
+  "last_update": "2022-03-15 20:47:16",
   "nodes": {
-   "CAISIQMMEvwbl78bgnjMMylV+EMFbRxBiLQ2f5RB2pZ8dpNuvA==": "2022-03-14 18:37:26.782954",
+   "CAISIQMMEvwbl78bgnjMMylV+EMFbRxBiLQ2f5RB2pZ8dpNuvA==": "2022-03-16 10:46:16.497620",
    "CAISIQPhyHumTkJafO1WrXYkMGh5v5hwmlu2XfX8kXGSTUuCJw==": "2022-03-09 15:28:45.485459"
   },
-  "scores": 15,
+  "scores": 21,
   "abandoned": false
  },
  "f1bcdebd-4f1d-43b9-89d0-88d5fc896660": {
-  "highest_height": 557,
-  "last_update": "2022-03-14 10:03:38",
+  "highest_height": 561,
+  "last_update": "2022-03-17 00:59:49",
   "nodes": {
-   "CAISIQOPJ84b84u+KnHo6fG4kh9RIrHtue5KolCrNNw4/YpGHg==": "2022-03-14 18:37:26.790089",
+   "CAISIQOPJ84b84u+KnHo6fG4kh9RIrHtue5KolCrNNw4/YpGHg==": "2022-03-17 09:58:32.939810",
    "CAISIQNidafhpkp2Z3wR7Sh1ivSNqxk4MyQxg1A7cA8SNpJlzw==": "2022-03-09 15:28:45.514138",
    "CAISIQM05cVJm5MxMjT1T/QuCBDIxac7WD+x0uXTJeds3brE1Q==": "2022-03-08 11:11:12.345012"
   },
-  "scores": 55,
+  "scores": 70,
   "abandoned": false
  },
  "9ebde6d1-6b78-47d0-93f3-419b4b828aa6": {
@@ -164,41 +164,41 @@
   "abandoned": true
  },
  "3d9bafbe-de39-4b60-a74d-2339ce6050a8": {
-  "highest_height": 217,
-  "last_update": "2022-03-14 10:03:38",
+  "highest_height": 222,
+  "last_update": "2022-03-15 18:35:49",
   "nodes": {
-   "CAISIQJrNB6FaXiKspldguEth84jTkA8t9rtNFezLaaCPoWw9A==": "2022-03-14 18:37:26.796714",
+   "CAISIQJrNB6FaXiKspldguEth84jTkA8t9rtNFezLaaCPoWw9A==": "2022-03-15 19:55:27.737692",
    "CAISIQKj3Xhv7YefpXJ0C6acR0TrU0EVnfW14Xh0HTWt9Ujvww==": "2022-03-09 15:28:45.524736",
    "CAISIQLs/R+BoMueidtooSdOquwt/LF7GsSnJwQIAVLCdWkyaw==": "2022-03-08 11:11:12.356344"
   },
-  "scores": 10,
+  "scores": 12,
   "abandoned": false
  },
  "a9223277-39ff-40d1-9908-3ecba139e2c0": {
-  "highest_height": 328,
-  "last_update": "2022-03-14 10:03:38",
+  "highest_height": 329,
+  "last_update": "2022-03-16 09:01:51",
   "nodes": {
-   "CAISIQIQuSuoRakMLU7WM/wLy2IVUU0oWdJ1Z3G7+JFCg90XIA==": "2022-03-14 18:37:26.804961",
+   "CAISIQIQuSuoRakMLU7WM/wLy2IVUU0oWdJ1Z3G7+JFCg90XIA==": "2022-03-16 10:46:16.538126",
    "CAISIQPUColEyM+0tlQNAg/oUA+2P3iBiPUmIA4e7W73N5ZjdA==": "2022-03-09 15:28:45.551497"
   },
-  "scores": 15,
+  "scores": 18,
   "abandoned": false
  },
  "80fd558d-b158-48af-9980-d9ac9280a29b": {
-  "highest_height": 379,
-  "last_update": "2022-03-14 10:03:38",
+  "highest_height": 380,
+  "last_update": "2022-03-17 09:23:31",
   "nodes": {
-   "CAISIQIUZRkoiVqBGXIYKabaihb9HJJu+mXVNZlHfeYoRBBLzw==": "2022-03-14 18:37:26.811394",
+   "CAISIQIUZRkoiVqBGXIYKabaihb9HJJu+mXVNZlHfeYoRBBLzw==": "2022-03-17 09:58:32.967271",
    "CAISIQNuKFJjKoCl3EHhbcbs7ucRt6GGYZeJFcR5FWZj05qtxw==": "2022-03-09 15:28:45.567137"
   },
-  "scores": 15,
+  "scores": 18,
   "abandoned": false
  },
  "3f0c63ca-7aaa-4ce3-895d-b470c51e1885": {
-  "highest_height": 83,
-  "last_update": "2022-03-14 16:25:35",
+  "highest_height": 86,
+  "last_update": "2022-03-16 07:26:23",
   "nodes": {
-   "CAISIQNmPX9KwGQycCKS3RhluyvBDXRzzfKZzhBrG/lS4QpCjQ==": "2022-03-14 18:37:26.839518",
+   "CAISIQNmPX9KwGQycCKS3RhluyvBDXRzzfKZzhBrG/lS4QpCjQ==": "2022-03-16 10:46:16.555475",
    "CAISIQPSlgiokAgjd0WcgpUWjb1IeySsoDdLh+oKHpnaLusa0A==": "2022-03-09 15:28:45.576012"
   },
   "scores": 0,
@@ -325,13 +325,13 @@
   "abandoned": false
  },
  "45caa2eb-8686-4298-9f99-09756ce8f0f8": {
-  "highest_height": 136,
-  "last_update": "2022-03-09 14:16:51",
+  "highest_height": 137,
+  "last_update": "2022-03-14 23:45:56",
   "nodes": {
-   "CAISIQNliXM/PzNq/1QTgBj9/+2x1dJ4vjejP5RO7o6W2vfqAw==": "2022-03-07 18:03:41.155326",
+   "CAISIQNliXM/PzNq/1QTgBj9/+2x1dJ4vjejP5RO7o6W2vfqAw==": "2022-03-15 19:55:27.906758",
    "CAISIQPYs17COZqXnxVSI3EVi9NTqJL/vnaCMJ1xesVWLgbHkg==": "2022-03-09 15:28:45.638168"
   },
-  "scores": 2,
+  "scores": 3,
   "abandoned": false
  },
  "1b18f68a-7b50-466c-b93f-41c0dee70a9b": {
@@ -355,13 +355,13 @@
   "abandoned": true
  },
  "4e784292-6a65-471e-9f80-e91202e3358c": {
-  "highest_height": 2262,
-  "last_update": "2022-03-14 10:03:39",
+  "highest_height": 2274,
+  "last_update": "2022-03-17 09:56:42",
   "nodes": {
-   "CAISIQNKNsvS2jHrqPqQZoHfShqu9P7a81glEa/A2WUVFtwRBQ==": "2022-03-14 18:37:27.010102",
+   "CAISIQNKNsvS2jHrqPqQZoHfShqu9P7a81glEa/A2WUVFtwRBQ==": "2022-03-17 09:58:33.109412",
    "CAISIQMGQAIm1AUMjrEqNX6cTZU4UUsjtwv51sHCnrx5brw/sg==": "2022-03-09 15:28:45.644984"
   },
-  "scores": 132,
+  "scores": 198,
   "abandoned": false
  },
  "90e33f43-a432-4f12-9020-9cd0562676fc": {
@@ -415,33 +415,33 @@
   "abandoned": true
  },
  "1a8ecda7-7494-4b42-8ecb-ff053fdd536b": {
-  "highest_height": 1495,
-  "last_update": "2022-03-14 10:03:39",
+  "highest_height": 1499,
+  "last_update": "2022-03-17 09:14:51",
   "nodes": {
-   "CAISIQO4x7DsWgjhDFr4GA+3M60JbVIin+9UlVK6kM7ndJBqZg==": "2022-03-14 18:37:27.039152",
+   "CAISIQO4x7DsWgjhDFr4GA+3M60JbVIin+9UlVK6kM7ndJBqZg==": "2022-03-17 09:58:33.136548",
    "CAISIQP5MCOZlvv6Cb+MhU5Q+KxYUOZp3Va+BPRDm5QF907U+w==": "2022-03-09 15:28:45.656607"
   },
-  "scores": 112,
+  "scores": 154,
   "abandoned": false
  },
  "3bb7a3be-d145-44af-94cf-e64b992ff8f0": {
-  "highest_height": 14356,
-  "last_update": "2022-03-14 18:15:56",
+  "highest_height": 14460,
+  "last_update": "2022-03-17 11:34:59",
   "nodes": {
-   "CAISIQPDnUIBt1eapHY4sF+1zkIMsXE6CR7MjQfMTsW0iZXHsA==": "2022-03-14 18:37:27.045559",
+   "CAISIQPDnUIBt1eapHY4sF+1zkIMsXE6CR7MjQfMTsW0iZXHsA==": "2022-03-17 11:40:11.494204",
    "CAISIQNNIvnP2hgZQc8Tc/2XsXitvf9SVtfknw6HrnhHEQrkpQ==": "2022-03-09 15:28:45.664550"
   },
-  "scores": 2263,
+  "scores": 3127,
   "abandoned": false
  },
  "bd119dd3-081b-4db6-9d9b-e19e3d6b387e": {
-  "highest_height": 2074,
-  "last_update": "2022-03-14 10:03:39",
+  "highest_height": 2075,
+  "last_update": "2022-03-16 10:45:09",
   "nodes": {
-   "CAISIQN4uCfVB/ozQ4Hz4HJ14ljX6tKAEzKUe3TQnnLhZ+bG9Q==": "2022-03-14 18:37:27.066844",
+   "CAISIQN4uCfVB/ozQ4Hz4HJ14ljX6tKAEzKUe3TQnnLhZ+bG9Q==": "2022-03-16 10:46:16.673325",
    "CAISIQORR8PRHLTHvVcvmg+fNxceMb4r9S4KpLWMuDAO2a0Wug==": "2022-03-09 15:28:45.675982"
   },
-  "scores": 140,
+  "scores": 160,
   "abandoned": false
  },
  "bcf61b90-06ee-4633-b4d5-dbfce650f3a4": {
@@ -505,13 +505,13 @@
   "abandoned": true
  },
  "d36cb51d-64cf-4759-81b7-442ed2a6176d": {
-  "highest_height": 107,
-  "last_update": "2022-03-09 14:17:01",
+  "highest_height": 108,
+  "last_update": "2022-03-15 00:15:03",
   "nodes": {
-   "CAISIQP3SwIpv/fGkROAA2DrOoLomkz+SDikp6DfeYRkAL2zVA==": "2022-03-07 18:03:41.659936",
+   "CAISIQP3SwIpv/fGkROAA2DrOoLomkz+SDikp6DfeYRkAL2zVA==": "2022-03-15 19:55:27.975336",
    "CAISIQIraWCPVVFerbi6cjazeEFOIIXTw3sLJq9VtnYGUpJ4eA==": "2022-03-09 15:28:45.732793"
   },
-  "scores": 2,
+  "scores": 3,
   "abandoned": false
  },
  "ef51b633-6946-4961-9b00-0c3dc4f6b2c2": {
@@ -576,13 +576,13 @@
   "abandoned": true
  },
  "5d53968c-3b48-44c5-953f-0abe0b7ad73d": {
-  "highest_height": 434,
-  "last_update": "2022-03-09 14:17:03",
+  "highest_height": 435,
+  "last_update": "2022-03-15 20:17:09",
   "nodes": {
-   "CAISIQN1KMgurpNaZr7xHMOzKJ2taJS2uYUgAxBQqv5KJmhaLw==": "2022-03-07 18:03:41.941906",
+   "CAISIQN1KMgurpNaZr7xHMOzKJ2taJS2uYUgAxBQqv5KJmhaLw==": "2022-03-16 10:46:16.726305",
    "CAISIQMFV/PflG2m0/IrggvdER9hqeijYS6d1KfQ+rrug2lClA==": "2022-03-09 15:28:45.776415"
   },
-  "scores": 12,
+  "scores": 16,
   "abandoned": false
  },
  "a635b05f-d0ca-4488-a506-8ab5514e3263": {
@@ -696,13 +696,13 @@
   "abandoned": false
  },
  "cfb42114-0ee1-429b-86e5-7659108972be": {
-  "highest_height": 234,
-  "last_update": "2022-03-14 06:10:15",
+  "highest_height": 243,
+  "last_update": "2022-03-16 22:37:47",
   "nodes": {
-   "CAISIQIhbeMMdJQEsPpUHYXpOQ8l+Gwpn5z5AU/6J+iznakPDw==": "2022-03-14 18:37:27.207904",
+   "CAISIQIhbeMMdJQEsPpUHYXpOQ8l+Gwpn5z5AU/6J+iznakPDw==": "2022-03-17 09:58:33.258876",
    "CAISIQLgvOs83IcmppIqOxSxgcrwuS68E+ZGWA7UjLF6gka2yg==": "2022-03-09 15:28:45.862113"
   },
-  "scores": 14,
+  "scores": 20,
   "abandoned": false
  },
  "46e8680d-e474-44b5-8535-b0b12d2d4f66": {
@@ -756,33 +756,33 @@
   "abandoned": true
  },
  "89703dbe-93c6-4be0-ba26-dce563181194": {
-  "highest_height": 317,
-  "last_update": "2022-03-14 10:03:40",
+  "highest_height": 318,
+  "last_update": "2022-03-16 15:07:09",
   "nodes": {
-   "CAISIQKhXrq4EHoEl6dhRGDBa518c9pHGJOm3L3+JfBWNnn5+Q==": "2022-03-14 18:37:27.239392",
+   "CAISIQKhXrq4EHoEl6dhRGDBa518c9pHGJOm3L3+JfBWNnn5+Q==": "2022-03-17 09:58:33.297887",
    "CAISIQKGUHIrS6fcKfNPWkfGKidBtR3d6DktJ4fw17nIriw4Xw==": "2022-03-09 15:28:45.879509"
   },
-  "scores": 24,
+  "scores": 27,
   "abandoned": false
  },
  "5eae9761-4a2f-4302-8e24-95332a1c299b": {
-  "highest_height": 3446,
-  "last_update": "2022-03-14 10:03:40",
+  "highest_height": 3449,
+  "last_update": "2022-03-16 15:17:10",
   "nodes": {
-   "CAISIQIBHYxaEpdy6Xj2w39XVIIlYGWXrvrmtwHf1cay0ig+jw==": "2022-03-14 18:37:27.254045",
+   "CAISIQIBHYxaEpdy6Xj2w39XVIIlYGWXrvrmtwHf1cay0ig+jw==": "2022-03-17 09:58:33.306799",
    "CAISIQLKaINcaARzEd6jxw+pU9VKfCRtfX/9V3/R3O+9tPEZAw==": "2022-03-09 15:28:45.887497"
   },
-  "scores": 136,
+  "scores": 204,
   "abandoned": false
  },
  "54978593-a913-4ad4-aa57-5f85067e1e8b": {
-  "highest_height": 1216,
-  "last_update": "2022-03-14 10:03:40",
+  "highest_height": 1218,
+  "last_update": "2022-03-15 22:24:25",
   "nodes": {
-   "CAISIQL1HeFtW5p0gQUIXmF8rgtToUTS22DqEtnr0cHL26bEfQ==": "2022-03-14 18:37:27.261610",
+   "CAISIQL1HeFtW5p0gQUIXmF8rgtToUTS22DqEtnr0cHL26bEfQ==": "2022-03-16 10:46:16.831565",
    "CAISIQPqlux+2YBv8caRbUWRn52hKicsWk3J89kmXP1n1CB0QA==": "2022-03-09 15:28:45.896474"
   },
-  "scores": 84,
+  "scores": 96,
   "abandoned": false
  },
  "7f7e92f2-1b87-401e-9cd2-3f8b5c557d7c": {
@@ -796,13 +796,13 @@
   "abandoned": true
  },
  "7a0ff0e3-721c-4883-9479-a5377e1e79ab": {
-  "highest_height": 101,
-  "last_update": "2022-03-14 10:11:03",
+  "highest_height": 102,
+  "last_update": "2022-03-14 19:33:29",
   "nodes": {
-   "CAISIQMIgUhRFKORnLTbObgiGGVDLXgCAeJjoOYs95KRbfJcSg==": "2022-03-14 18:37:27.275517",
+   "CAISIQMIgUhRFKORnLTbObgiGGVDLXgCAeJjoOYs95KRbfJcSg==": "2022-03-15 19:55:28.122561",
    "CAISIQJwBd7NJblzqpBgxwJkDFt4d+RkpZVaEH/SMJH/PSQ2kw==": "2022-03-09 15:28:45.909760"
   },
-  "scores": 1,
+  "scores": 2,
   "abandoned": false
  },
  "0deae809-e788-4e33-a4a9-5d8749b2b673": {
@@ -1037,13 +1037,13 @@
   "abandoned": true
  },
  "d04fe203-1916-4acf-88e3-3cf39c05abc4": {
-  "highest_height": 199,
-  "last_update": "2022-03-09 14:16:39",
+  "highest_height": 200,
+  "last_update": "2022-03-14 19:33:40",
   "nodes": {
-   "CAISIQNCMuV65B03YTUEJs+uDZ72dFvnX73ZTCiaQ1EtR2JZaw==": "2022-03-07 18:03:40.276383",
+   "CAISIQNCMuV65B03YTUEJs+uDZ72dFvnX73ZTCiaQ1EtR2JZaw==": "2022-03-15 19:55:27.687634",
    "CAISIQMoJF6CnZL3i0+/KkWWTFWvFljGZSoKdn4GBr40A1lQGw==": "2022-03-09 15:28:45.345137"
   },
-  "scores": 2,
+  "scores": 4,
   "abandoned": false
  },
  "e034b61e-aca1-4dbc-86ba-2c146017b1d6": {
@@ -1588,28 +1588,28 @@
   "abandoned": false
  },
  "715872e2-cc31-4929-adcb-832676ad3d30": {
-  "highest_height": 62,
-  "last_update": "2022-03-11 18:03:43",
+  "highest_height": 177,
+  "last_update": "2022-03-15 16:55:44",
   "nodes": {
-   "CAISIQIHqSjfkps0yRt3bS/v4c8uHbb4hFU1YjMpCYa7ZH5XLA==": "2022-03-11 19:48:10.186332"
+   "CAISIQIHqSjfkps0yRt3bS/v4c8uHbb4hFU1YjMpCYa7ZH5XLA==": "2022-03-15 19:55:27.829930"
   },
-  "scores": 0,
+  "scores": 1,
   "abandoned": true
  },
  "0be13ee2-10dc-4e3a-b3ba-3f2c440a6436": {
-  "highest_height": 290,
-  "last_update": "2022-03-14 11:58:02",
+  "highest_height": 353,
+  "last_update": "2022-03-17 11:36:53",
   "nodes": {
-   "CAISIQLNWP9sIyHMwiZoSLSwJw7PfbbGIYn4Fr9v7gLn+lumPw==": "2022-03-14 18:37:26.865751"
+   "CAISIQLNWP9sIyHMwiZoSLSwJw7PfbbGIYn4Fr9v7gLn+lumPw==": "2022-03-17 11:40:11.367041"
   },
-  "scores": 2,
+  "scores": 22,
   "abandoned": false
  },
  "7bddeb06-ea0f-4284-a958-ea973a6b631e": {
-  "highest_height": 13,
-  "last_update": "2022-03-12 09:56:06",
+  "highest_height": 18,
+  "last_update": "2022-03-16 23:11:37",
   "nodes": {
-   "CAISIQKYbqschgLiPyEtiZNXsZ+l7FR2DNe6hyy7/URLMVD/4g==": "2022-03-14 18:37:27.322169"
+   "CAISIQKYbqschgLiPyEtiZNXsZ+l7FR2DNe6hyy7/URLMVD/4g==": "2022-03-17 09:58:33.373784"
   },
   "scores": 0,
   "abandoned": false
@@ -1624,10 +1624,146 @@
   "abandoned": false
  },
  "e35da18d-f543-4074-b3ab-3ed53345f7de": {
-  "highest_height": 11,
-  "last_update": "2022-03-14 10:07:27",
+  "highest_height": 25,
+  "last_update": "2022-03-17 09:13:44",
   "nodes": {
-   "CAISIQP3Q4orSLXrDTyhsVTNq3pHTclgExfl5TDqpe+FpUasJA==": "2022-03-14 18:37:26.974027"
+   "CAISIQP3Q4orSLXrDTyhsVTNq3pHTclgExfl5TDqpe+FpUasJA==": "2022-03-17 09:58:33.074242"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "0b159a57-a3ad-48d3-a557-da135cf6f453": {
+  "highest_height": -1,
+  "last_update": "init",
+  "nodes": {},
+  "scores": 0,
+  "abandoned": false
+ },
+ "325da279-de52-44f2-aa37-c1edc10c3f4f": {
+  "highest_height": -1,
+  "last_update": "init",
+  "nodes": {},
+  "scores": 0,
+  "abandoned": false
+ },
+ "bd8d1d1c-bef0-4f67-a7f6-8ce2a7a37a31": {
+  "highest_height": -1,
+  "last_update": "init",
+  "nodes": {},
+  "scores": 0,
+  "abandoned": false
+ },
+ "cea9bc4b-aa1e-4fbc-a004-f663bd9398d1": {
+  "highest_height": 9,
+  "last_update": "2022-03-15 19:25:26",
+  "nodes": {
+   "CAISIQIqUYg2bIgJ84jGMmyaJFUyW0q+DiY+ktLJVLuQBs0zqw==": "2022-03-15 19:55:27.860474"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "938455b8-9683-4d06-abae-b422c89103b6": {
+  "highest_height": 24,
+  "last_update": "2022-03-16 13:35:55",
+  "nodes": {
+   "CAISIQPgZjT23qsufcc9mb3djX/nGKhv6T4bSZLH+twnlyOS7Q==": "2022-03-17 09:58:33.059558"
+  },
+  "scores": 0,
+  "abandoned": true
+ },
+ "8fe502a0-d796-4f4e-aefc-ef9f2334d4d2": {
+  "highest_height": -1,
+  "last_update": "init",
+  "nodes": {},
+  "scores": 0,
+  "abandoned": false
+ },
+ "faf0897a-62f1-4286-9dde-982655419640": {
+  "highest_height": 0,
+  "last_update": "2022-03-16 20:26:23",
+  "nodes": {
+   "CAISIQNtCrPUVAqH4cF5NsrrXMbBKBXmgqN1SWZTya3CcMO/5w==": "2022-03-17 09:58:33.017479"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "c66a0f0e-013f-4bb7-b6fc-d645a0f9fe1b": {
+  "highest_height": 1,
+  "last_update": "2022-03-16 14:37:40",
+  "nodes": {
+   "CAISIQOKDIQ4clXFChdpAvNh7JDLLJ5a+WqcCsJrZA96uxXD2Q==": "2022-03-17 09:58:33.045451"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "5f957d7e-cec1-4b9a-887b-98d1b5a795c2": {
+  "highest_height": 1,
+  "last_update": "2022-03-16 14:55:00",
+  "nodes": {
+   "CAISIQKuDwwppw2XOjVByks6XuPsiOMDQFbBfMdoyv+WGdX9xg==": "2022-03-17 09:58:33.038389"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "85abbb95-9807-4993-8cde-9da2ac0204d9": {
+  "highest_height": 16,
+  "last_update": "2022-03-16 17:37:24",
+  "nodes": {
+   "CAISIQLsjL29nHOeeErASA3LM9Ye8LC+Z52rzySiUELZX4SQpQ==": "2022-03-17 09:58:33.024403"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "60469256-d8d1-4c90-a42d-5c1e71de27f9": {
+  "highest_height": 11,
+  "last_update": "2022-03-17 11:15:25",
+  "nodes": {
+   "CAISIQPjPhc4y+OumJfpC/dOOybjdKvVyE3yQPJNffT5OcgLnw==": "2022-03-17 11:40:11.433679"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "29e4d39a-9497-46e3-b13b-dc8bd9bb8f79": {
+  "highest_height": 4,
+  "last_update": "2022-03-17 11:36:57",
+  "nodes": {
+   "CAISIQPrylK7avy5xgvBI0KMv/yyTp2PW04b8Vz/3kVY3/rs9g==": "2022-03-17 11:40:11.278856"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "8c29b1ac-4807-424b-80be-b3783e7569f3": {
+  "highest_height": 4,
+  "last_update": "2022-03-17 11:37:15",
+  "nodes": {
+   "CAISIQJts6zt05KmCCJqytdNs9FPc1h01fjAVQaJbcEq1adPVg==": "2022-03-17 11:40:11.390904"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "dd90f5ec-2f63-4cff-b838-91695fe9150f": {
+  "highest_height": 4,
+  "last_update": "2022-03-17 11:37:18",
+  "nodes": {
+   "CAISIQLhJ+bvHJC4U+7XATBDQztimMoRULkyKNtwDljLPnjACA==": "2022-03-17 11:40:11.327106"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "8f3a3046-8da1-4a2f-b378-a6db657da169": {
+  "highest_height": 4,
+  "last_update": "2022-03-17 11:37:02",
+  "nodes": {
+   "CAISIQMN3171DvsClqh3cNsrRkV5ZB3gqui7WaNFTKbS9Q0Gaw==": "2022-03-17 11:40:11.299512"
+  },
+  "scores": 0,
+  "abandoned": false
+ },
+ "fc9005f1-cead-46a0-bb22-071ebfc6c3e0": {
+  "highest_height": 0,
+  "last_update": "2022-03-16 20:27:04",
+  "nodes": {
+   "CAISIQIfeb3+N2x9O9jIohuAPqCX/dcxRK8/WioPHyAKhKtKeg==": "2022-03-17 09:58:33.289506"
   },
   "scores": 0,
   "abandoned": false
