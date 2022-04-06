@@ -1,7 +1,7 @@
 import os
 import datetime
 import json
-from officepy import JsonFile, Dir, File, Stime
+from officy import JsonFile, Dir, File, Stime
 
 father_dir = os.path.dirname(os.path.dirname(__file__))
 seedsfile = os.path.join(father_dir, "data", "seeds.json")

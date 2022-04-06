@@ -3311,5 +3311,203 @@
   "cipher_key": "d53a464d93d51385a11c2c57b289bc497a6e62ef9bf43fec7ebf4d20b3922e27",
   "app_key": "group_epub",
   "signature": "3046022100c6c86ee6d2aa3a57fba7b123f80586b4ba7faf2e2aeb15da69d7e8c36d1f0f43022100dce7770a205f897794235c897a0f2f751cf18a1dd62b5b417cbd236629be084d"
+ },
+ "6f307531-70d7-499d-ac46-faebc1bd9ff3": {
+  "genesis_block": {
+   "BlockId": "a1ec1a38-2f02-4460-ba71-d15d208f1879",
+   "GroupId": "6f307531-70d7-499d-ac46-faebc1bd9ff3",
+   "ProducerPubKey": "CAISIQLiFHsEasQa80UB/0wx4kIRHoLCg7hOanaoV8MFRUSdnw==",
+   "Hash": "zad7+bqRoT3PZQ9DdnQ8WhPz+bnsGgeq3eGV8Fr4NNE=",
+   "Signature": "MEYCIQDeR/NRXFND4ef/iaOi81iHOxT2S4tiMVdXJ94sgRINTQIhAL7BCoFxiLeosGV7tGejNkyW8wmxpDGf+XOrSpemsdiR",
+   "TimeStamp": "1648534912410328698"
+  },
+  "group_id": "6f307531-70d7-499d-ac46-faebc1bd9ff3",
+  "group_name": "书摘",
+  "owner_pubkey": "CAISIQLiFHsEasQa80UB/0wx4kIRHoLCg7hOanaoV8MFRUSdnw==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "dec10624db7e56fd320be90e0e079538da6d30d9abdabcb6c382e893e3ac7894",
+  "app_key": "group_timeline",
+  "signature": "304502205d875f3c04ce430e424a9d11bf83eb47e35fb651e92f7583c95e0218529bbef50221008a9d8bd79cb5f9b38773909ed3544886e51694f96abe2123a00eaabf50212cd0"
+ },
+ "a485b277-718b-466a-bdb9-9a654dd90626": {
+  "genesis_block": {
+   "BlockId": "b27677f0-b663-4c8c-8721-7e6f2af5889f",
+   "GroupId": "a485b277-718b-466a-bdb9-9a654dd90626",
+   "ProducerPubKey": "CAISIQPOQ0/t7wLPFYTYyhGyhaZPQPGgP8MjTzuD+y7Ep9Kr/w==",
+   "Hash": "C+FSR5ms0SAhNy9BSZao84A3/wDKw12Udpjyzj8RkTU=",
+   "Signature": "MEYCIQCCc4qCfI0obi8NBX9we+PmMOtGXipdi5NIQQjoubDfSwIhANpSH/mdVvA3pIc4XicQd65sd2KSu7564vf8uToke0GL",
+   "TimeStamp": "1648869184878879800"
+  },
+  "group_id": "a485b277-718b-466a-bdb9-9a654dd90626",
+  "group_name": "feed_readonly_free",
+  "owner_pubkey": "CAISIQPOQ0/t7wLPFYTYyhGyhaZPQPGgP8MjTzuD+y7Ep9Kr/w==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "9a1b18ec1ba127f36bb2f3995dc1e75a733fd82fa338b7de7e6ffb5fe752b340",
+  "app_key": "group_timeline",
+  "signature": "3044022026bd682b52ba3d87d3d090630a0b2567d6ee74b5af585b80f324ad940a778d17022037f18bb749cc94e78b8fb5b4792201e5c264ebc79b063a538cba02f9b8663511"
+ },
+ "435cf3bc-a027-4c62-b9ff-a4051efa6fe6": {
+  "genesis_block": {
+   "BlockId": "3671f6c7-0fe8-4774-9908-c508067a0ba3",
+   "GroupId": "435cf3bc-a027-4c62-b9ff-a4051efa6fe6",
+   "ProducerPubKey": "CAISIQILJZikmpJCpeUGrNB+g2Qpg9nv1jBAFJcRauBGK1oelg==",
+   "Hash": "B+1KUsb7/PQVV46CZNxCc9BpmY3iofJOkTmyMmugaCI=",
+   "Signature": "MEYCIQDSxB8DUpFDz88S8/7o/RGflol0u6OboV1IHH6++3NTVwIhAIh57+Lu4tMuVyaHAlDo5WWUFEnduCv47Qq5G9xlBijD",
+   "TimeStamp": "1648987883314975600"
+  },
+  "group_id": "435cf3bc-a027-4c62-b9ff-a4051efa6fe6",
+  "group_name": "mytest_config",
+  "owner_pubkey": "CAISIQILJZikmpJCpeUGrNB+g2Qpg9nv1jBAFJcRauBGK1oelg==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "8f5ed34508d9f1d214d104aac331d97b7134432a6b55865a16723b1ee6b3d275",
+  "app_key": "group_timeline",
+  "signature": "3045022100c5f76d7bd06f567d76b30e4fdcdbee010769638ff08d1147f6a231a7aa2e319d02207b47cbe567878187626479f611c7fe02e856bf77d9e79ef4226039ed2b07e980"
+ },
+ "ab085124-7768-4bdf-adcc-35079c8aa5c4": {
+  "genesis_block": {
+   "BlockId": "4f29d75f-c680-4107-a7cc-d32cca2220d0",
+   "GroupId": "ab085124-7768-4bdf-adcc-35079c8aa5c4",
+   "ProducerPubKey": "CAISIQIv2o+hw+KyBwSL8xIj7kz9+TSJfKH/rakmq9ZqSXvrhw==",
+   "Hash": "Ryox8XYwbt7uQaji5ydHvvQVesGvQI3UJZjbMCneRx0=",
+   "Signature": "MEYCIQCC00WwErFKVa0zCprnN1ZkwC6/Mg4faHKKHeDzewvjZgIhAKt63kXByqQLQ9kkBg06VFvr4WQ7OO0B6aOjZM2i7NHv",
+   "TimeStamp": "1648870069737528800"
+  },
+  "group_id": "ab085124-7768-4bdf-adcc-35079c8aa5c4",
+  "group_name": "test",
+  "owner_pubkey": "CAISIQIv2o+hw+KyBwSL8xIj7kz9+TSJfKH/rakmq9ZqSXvrhw==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "3e4c5013ffc08cdfaf51066b00283369b1903158853f60847380b71c627361bb",
+  "app_key": "group_timeline",
+  "signature": "3045022100c0f0839bf4be809f5ae6b0fcf0dcb12c89de934f13374d91c0f624d2b7ca322f022020f34c0f78a740c374b3550e7ebab133e1af90bbf86eb71ed0b51a163a9796f2"
+ },
+ "2d4c9b28-7a80-4d1e-8a20-b73c112b095e": {
+  "genesis_block": {
+   "BlockId": "8cf96f85-5237-423b-bbb2-a94e5b5ee94d",
+   "GroupId": "2d4c9b28-7a80-4d1e-8a20-b73c112b095e",
+   "ProducerPubKey": "CAISIQMSdJuTCFkONTAfIjWCfJEEMYyw5C9/NM4MA82E6mhgoQ==",
+   "Hash": "b+EqCuVEoHZ6B74umdM/FZW7ZPLi/WsTX2gjOqzI81w=",
+   "Signature": "MEQCIBw9Cg3WzilNy8Sz+a2U0hlvPu4qNB6yWW2KhuculOZjAiA/HynanNKkmCaCXl5OGeCbprsdW0RYcecR+nAAd1s9Zw==",
+   "TimeStamp": "1648537615635921900"
+  },
+  "group_id": "2d4c9b28-7a80-4d1e-8a20-b73c112b095e",
+  "group_name": "君山隐修会",
+  "owner_pubkey": "CAISIQMSdJuTCFkONTAfIjWCfJEEMYyw5C9/NM4MA82E6mhgoQ==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "92665c69746a2d40cd39deadf52833f1a0c5fb977db57ec13c2d293d919fcb26",
+  "app_key": "group_timeline",
+  "signature": "304502210090b44f8b29d5a7ca22f6a9d7725a85fd65bee2d77ab5e5bcd7ce8bf209b01f5702203a16a028336ab74d621afd295da17b2d8f46a11c818cb73d2ac75df72236a3bf"
+ },
+ "2b70abb3-b088-4e29-8ad8-1a4124ecccfb": {
+  "genesis_block": {
+   "BlockId": "60b12c49-8651-41c4-b2df-f654b77d6b9c",
+   "GroupId": "2b70abb3-b088-4e29-8ad8-1a4124ecccfb",
+   "ProducerPubKey": "CAISIQN6nONi4rzVI9qL86UT49TEXY89KLbp8Wy7430DXjVEtA==",
+   "Hash": "JOz3wCmCqrU78Gor2ZOi+MI37FIdg0DLgwQ3WfsYMQ4=",
+   "Signature": "MEUCIQCvbcYnNhIB8uy/ru3XAMrJcnl4b1HWsq3oRUAisTXPnAIgWb8aPyovIYHHe7z/jbODK12nZyqvjrTWFOWWmkDkSao=",
+   "TimeStamp": "1649228016749236400"
+  },
+  "group_id": "2b70abb3-b088-4e29-8ad8-1a4124ecccfb",
+  "group_name": "feed只读paid",
+  "owner_pubkey": "CAISIQN6nONi4rzVI9qL86UT49TEXY89KLbp8Wy7430DXjVEtA==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "b8f9e08c1b61a1ae52242bcc540e12ebd1900f7365f16b3fb9c260bc6681a693",
+  "app_key": "group_timeline",
+  "signature": "30440220511b89a987bbdff7add77d131771100f31cd37a7288f6a32cca6178a275f8c8c022051b985ee66ac0cb40aa931d75ad789f293c3765302b31628b87fad35b4c95bcc"
+ },
+ "7f5c4f9e-0417-42ae-a3df-fba7bdd5f29e": {
+  "genesis_block": {
+   "BlockId": "4e6f3242-853a-47ca-b892-81437dcde938",
+   "GroupId": "7f5c4f9e-0417-42ae-a3df-fba7bdd5f29e",
+   "ProducerPubKey": "CAISIQNGlADMd0Wcef8jjRjL5slyz0IR60EBPelAiMADMG07Kw==",
+   "Hash": "dFknPx2/16E3CNR6h6lvv8XNziMUuC5kvDg9fJsJMsM=",
+   "Signature": "MEQCICuEQ8QThOXAvkJ4lNZ3rSvcvp+YUld32Kr0qmxHN2c4AiB+8MMTldywhJRKsGSSK4Oo6Hd/3tBWU/nGYd8N69KEWw==",
+   "TimeStamp": "1649228120706024900"
+  },
+  "group_id": "7f5c4f9e-0417-42ae-a3df-fba7bdd5f29e",
+  "group_name": "feed只读paid——cloud",
+  "owner_pubkey": "CAISIQNGlADMd0Wcef8jjRjL5slyz0IR60EBPelAiMADMG07Kw==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "d884a65463c706c57f4919cb099db12359724abd7b00513e3feed6fda82ca11f",
+  "app_key": "group_timeline",
+  "signature": "304502202745a4e2281e84e2c4dd9ac45b0f886f9c4271b0e7041ab7cbeea2f0b572b4de0221009e88e2e594705ecea86cc787c1baa72ec51567064dc92f10c34253df65b5683c"
+ },
+ "328d1010-8a54-4f93-886e-fa71d3ce738e": {
+  "genesis_block": {
+   "BlockId": "7b7b2eb1-d6d6-465a-9070-fce26812f132",
+   "GroupId": "328d1010-8a54-4f93-886e-fa71d3ce738e",
+   "ProducerPubKey": "CAISIQK/DxtRXD9qvyjWMnAB864+5KsJQhxcqwU7gxF+cIlZmg==",
+   "Hash": "kYL77JeKw6GLCn335BYrtDdhoIljcB73pO9CrFictZE=",
+   "Signature": "MEYCIQDbUiKRjFa7cCcA2LSCjmArzIGv0oWMlkbjBVzS5qBaogIhAOeHBwEdQkqJOozx6AfNU00iEdD2PbfHuB7Xtu4jb4WL",
+   "TimeStamp": "1649228375137550900"
+  },
+  "group_id": "328d1010-8a54-4f93-886e-fa71d3ce738e",
+  "group_name": "feed可写paid",
+  "owner_pubkey": "CAISIQK/DxtRXD9qvyjWMnAB864+5KsJQhxcqwU7gxF+cIlZmg==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "bfefe7a41a75d043d70a05eb412ed5d2331ff28c33e543fd4e7b6cd5700ab503",
+  "app_key": "group_timeline",
+  "signature": "304602210098082886a52e319d789578aaabd2910dae332cec8310f1b19e7ea1ebae13b093022100c2d6596aec0102ebed765f9804ebcdcbbbf9c3760185c48ecfadc1e08588e099"
+ },
+ "32f4c832-a1d7-475a-9642-72ecdc5a0a26": {
+  "genesis_block": {
+   "BlockId": "2a9f1e75-e4dd-41d0-98e8-b0fea001c18d",
+   "GroupId": "32f4c832-a1d7-475a-9642-72ecdc5a0a26",
+   "ProducerPubKey": "CAISIQJgswXV7jXrZ3AQcM3b87MnseKcX7f0bB79SAEtajP9YA==",
+   "Hash": "0ayBbVUod0RP2mZQQN1eK7Cqek37P9IJUZrAzeZz+YQ=",
+   "Signature": "MEUCIGLfhTB+9xaYkJKouAKsoAEiAxS4uxWzNHt0XzUvinUaAiEAuTmOZkdHbhuTugLruvyhJaCDMfSk+GrgPou2Reep0Wg=",
+   "TimeStamp": "1649226688005865500"
+  },
+  "group_id": "32f4c832-a1d7-475a-9642-72ecdc5a0a26",
+  "group_name": "paid",
+  "owner_pubkey": "CAISIQJgswXV7jXrZ3AQcM3b87MnseKcX7f0bB79SAEtajP9YA==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "057a143387af81a1bced7a00acc2dff3e5a29cf5d77e9937982c7eb746679d9f",
+  "app_key": "group_timeline",
+  "signature": "304402203af00eb4d1230093c2b9195a454895201254a6ed029b4e8010779ed2ec9159ca02202629847a229da5c383b53275961dfdbe47782d1765dc6af6e8f50699396b5384"
+ },
+ "4427f5e0-a491-4398-ad76-43f726db4d66": {
+  "genesis_block": {
+   "BlockId": "c5535ccb-7732-402c-abac-9105ad98ab6b",
+   "GroupId": "4427f5e0-a491-4398-ad76-43f726db4d66",
+   "ProducerPubKey": "CAISIQNSNuYaolvCorxsyFSGf4ujnamwnf0z5HTUFuor6RTPFQ==",
+   "Hash": "cHbAlyGpJXiKc4JO5uOVKLy6JBa6wBPWt9NmZSHf5ys=",
+   "Signature": "MEUCIFmRKgATTftck3twwNJJpBM7Ob9B+fKLJyhA9a8xPwvaAiEAw48tl4ESkiCh2QKXUz4KaFgnaGuJrMsQXb16WxcFUb0=",
+   "TimeStamp": "1649237882987417900"
+  },
+  "group_id": "4427f5e0-a491-4398-ad76-43f726db4d66",
+  "group_name": "test_note",
+  "owner_pubkey": "CAISIQNSNuYaolvCorxsyFSGf4ujnamwnf0z5HTUFuor6RTPFQ==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "71710139f7a74c853f1a3c08b8e1a822becfb490a41daa7d71f774efb116f88d",
+  "app_key": "group_note",
+  "signature": "3045022035aa873d4d21bfe824c9051987cc675e90c8364d524c9137f8575de7c135b32b0221008f31f86aa28e9ac96f8b5313b0c3302f2f6e19e63d90d3cfe0a2ab61a9fe99bc"
+ },
+ "f9256017-2afb-45bc-b970-2bebe19228f9": {
+  "genesis_block": {
+   "BlockId": "31fbaae5-32fd-4342-8303-de1e9e33456e",
+   "GroupId": "f9256017-2afb-45bc-b970-2bebe19228f9",
+   "ProducerPubKey": "CAISIQORQBA6j0rQQMBgpCrdUyhNavohbLkpMOvWXirsYZrxhw==",
+   "Hash": "VQAO6I437Mnzy5EZNAjQlMMdRgOPYK/RwIRY/bLuemc=",
+   "Signature": "MEYCIQCsOkOPmAaJgghmvnPQK5zSPVR+8HCuHumNuXtu8xQcUwIhAMMDdcuTyCeEo/Sm86VYdBmqfG5ech+o6gMHXiVNyTvJ",
+   "TimeStamp": "1649227671883171900"
+  },
+  "group_id": "f9256017-2afb-45bc-b970-2bebe19228f9",
+  "group_name": "默认只读的收费feed",
+  "owner_pubkey": "CAISIQORQBA6j0rQQMBgpCrdUyhNavohbLkpMOvWXirsYZrxhw==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "7cf54dde6d146982ee446dc347182a8b663cd071ea20a9ffc72b203b27ba9803",
+  "app_key": "group_timeline",
+  "signature": "304502200680af8bd770fa9cbeb9e2095d41ad86174914a143f4c0094200401fa693207e022100e00c979b517bb7c06fc7b3e69cdbf7524a6856db379c35aeb0d271bd4e4f7e44"
  }
 }
