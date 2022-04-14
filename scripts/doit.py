@@ -58,6 +58,7 @@ def init_mdfile(gids):
     File("seeds_toshare.md").writelines(lines)
     otherfile = os.path.join(
         os.path.dirname(os.path.dirname(os.path.dirname(__file__))),
+        "rum-docs",
         "docs",
         "rum-app",
         "README.md",
