@@ -71,5 +71,5 @@ def init_mdfile(gids):
 
 
 if __name__ == "__main__":
-    groupseeds = search_groups(blocks_num=20, last_update_days=-14)
+    groupseeds = search_groups(blocks_num=20, last_update_days=-30)
     init_mdfile(groupseeds)

@@ -3707,5 +3707,96 @@
   "cipher_key": "aba9dd489b31a16da18bcf4aab99cd2a81d22ad65ccfd4f75927acf5e24d1edf",
   "app_key": "group_timeline",
   "signature": "3045022078500223a62093e212f973d7d7186ca74fa28d94f05c20a22caf7e4f4e6d7ccf022100d72a378608d99e243e15c9d3f39ccd93577f3ead734a5b0109f8892fb579539f"
+ },
+ "db6eceb8-f384-48af-9dc0-931f53d1c958": {
+  "genesis_block": {
+   "BlockId": "8a3f5789-4837-49ee-890d-3861fc4ea7fb",
+   "GroupId": "db6eceb8-f384-48af-9dc0-931f53d1c958",
+   "ProducerPubKey": "CAISIQLNxNST8AHYHC+OCiun89DnEMogO7RVn8uRR5wSPU5I0Q==",
+   "Hash": "/jtdYqX9plVH0JaJFKIKVY88uqkvnpJA5/c7PN5Fd3k=",
+   "Signature": "MEYCIQCAsvGJ1z9sFpc3apUJr6hnH/Ac1N1Ekx/MhmqYmNt1ygIhAKL+1ys3lZzuIS/0s/dSZxSeDuNOy5RIfSovbUk/ktQe",
+   "TimeStamp": "1650788851087079000"
+  },
+  "group_id": "db6eceb8-f384-48af-9dc0-931f53d1c958",
+  "group_name": "Mixin生态NFT展望",
+  "owner_pubkey": "CAISIQLNxNST8AHYHC+OCiun89DnEMogO7RVn8uRR5wSPU5I0Q==",
+  "consensus_type": "poa",
+  "encryption_type": "private",
+  "cipher_key": "2d1174435b869d27ad4e847c94b8eab14f854a6959ca2bb4d210e0ef41ccc8f6",
+  "app_key": "group_post",
+  "signature": "3046022100868b6d7e41630e12d116033a8c042f76674227304c2da8ada3b13120833b332f022100a3050462681ef8b9e1860d84d59911adedf2f1375c507b979294dee9e78e5164"
+ },
+ "514ddc13-5368-45e4-84f5-041d6b958dc8": {
+  "genesis_block": {
+   "BlockId": "c06fe2ff-1ee3-4e64-a778-be1d76b696d8",
+   "GroupId": "514ddc13-5368-45e4-84f5-041d6b958dc8",
+   "ProducerPubKey": "CAISIQPMm/JwYO6MtFjhvctMMMXQM87927s4l7hlVYwdob/FUg==",
+   "Hash": "TBMwbMtaXVcvorX+d7awr0rc81lI0V/P+eqh05zK4cg=",
+   "Signature": "MEUCIBT17UnKBkP9rNGMYsBPKzUC1PnQcgVHbvKWjDLNm9kOAiEAyYNej/cdsLtrmyYgTMBBI9+QJyoj445c5STv2hveXMk=",
+   "TimeStamp": "1651033096618144800"
+  },
+  "group_id": "514ddc13-5368-45e4-84f5-041d6b958dc8",
+  "group_name": "mytest_groupview",
+  "owner_pubkey": "CAISIQPMm/JwYO6MtFjhvctMMMXQM87927s4l7hlVYwdob/FUg==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "c3973e73a58b00de0b79c417996dd8fa0fd053711bd4283cc1121e59da653269",
+  "app_key": "group_timeline",
+  "signature": "3046022100d5f1c658830717d13ea9cf5af565aa9414f847f58026d4c73d8f174ff4413c97022100b3ded37de6af9d70470edabeb638fe397fe65d30b3b9fec00b3c90ee10de1cc8"
+ },
+ "58256759-26af-40d9-add9-b82128d3d4f9": {
+  "genesis_block": {
+   "BlockId": "1a6c044c-48e3-4a2e-81ec-a94eebe354cd",
+   "GroupId": "58256759-26af-40d9-add9-b82128d3d4f9",
+   "ProducerPubKey": "CAISIQNBsHQ5IQcussfAfetOp4oAjVsHzuz5ZYOt7Krs4seI2w==",
+   "Hash": "0gFJF2YDQ646BNwX9TJAqPnMSl9IRF/9Nk4ap6Cgllk=",
+   "Signature": "MEQCIDQB2owi0XoY8QgwM+Bv7GCz06nRLlgDIC3KwgSAoPAiAiAH1eZYVDseV6yJw6/ZVwRDpNRqfq5EHULMadTyG2GOKA==",
+   "TimeStamp": "1649991701422638600"
+  },
+  "group_id": "58256759-26af-40d9-add9-b82128d3d4f9",
+  "group_name": "故事接龙",
+  "owner_pubkey": "CAISIQNBsHQ5IQcussfAfetOp4oAjVsHzuz5ZYOt7Krs4seI2w==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "478081ac615bcd1d81a410e9f92cc7441ee66101fa6fb45fdeb803230fb21ef5",
+  "app_key": "group_timeline",
+  "signature": "3045022100c45be68239358768a84d5192052bfb29213c2fa8401f2c98a9871faf2739cb3b022027822d37c048b6528e74d27f5c52c377d013197a69f2f429ac96046582a884e9"
+ },
+ "729ec6b7-5e32-4b45-8b31-97975b7c1c60": {
+  "genesis_block": {
+   "BlockId": "9e8f2d6e-a911-476d-9b9a-53774b70d233",
+   "GroupId": "729ec6b7-5e32-4b45-8b31-97975b7c1c60",
+   "ProducerPubKey": "CAISIQNIyHPtaVG3BCOlKPFzU+HS4jMjLHJW7t9fT00QbvIDag==",
+   "Hash": "BXHDp0dxtvKEV5693FoGvOouVOckNqRjBP+zfNRvdiY=",
+   "Signature": "MEUCIQCRMiFZ6QGP3Drj1Lf8XQT103bRpM7Q33p9STDWEyCuzAIgbOaRCF+1HclVW1aBExJelxjAxRtdbMo+JpfG/QCvUUM=",
+   "TimeStamp": "1634883447337207775"
+  },
+  "group_id": "729ec6b7-5e32-4b45-8b31-97975b7c1c60",
+  "group_name": "好东西收藏",
+  "owner_pubkey": "CAISIQNIyHPtaVG3BCOlKPFzU+HS4jMjLHJW7t9fT00QbvIDag==",
+  "owner_encryptpubkey": "age1x3qzlj0aky24mqsywgwp6aj3x6s35dxqsluadxjg622n69kcws2saytft9",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "cac87fad5f69520841cc8c4c2e44069a4894d03dfea7e965ba1ceb66ca458654",
+  "app_key": "group_timeline",
+  "signature": "3046022100858ddf5e5b63d15853bd9763cf3d789c8856e52825d2a587a6cacc11fd1370e5022100ba4a9fdedb99d4d37b239cfdac0036ff7c46f806cee6261a28d97b31b80d0015"
+ },
+ "a6aac332-7c8d-4632-bf3c-725368bb89d5": {
+  "genesis_block": {
+   "BlockId": "6f704576-9f17-4ec6-8a89-70365bc72360",
+   "GroupId": "a6aac332-7c8d-4632-bf3c-725368bb89d5",
+   "ProducerPubKey": "CAISIQORrrkemj8TYd13ahMfvQb7wCiKxom9oxBLFrvsRhgZAg==",
+   "Hash": "MAOUp4nn9fRpI2vZZpEHJvKex3xvIKXIMw3TFSr8mH4=",
+   "Signature": "MEUCIQDvZTcUKgb0IqXarHMLkwfVqQgKUbjnV5ClbBYDZDcrSAIgcd6NPWlrzU7qzB1yFl5WHJB47zafb/WQWHJhbrjyv0Y=",
+   "TimeStamp": "1642857784509028711"
+  },
+  "group_id": "a6aac332-7c8d-4632-bf3c-725368bb89d5",
+  "group_name": "每天一分钟，知晓天下事",
+  "owner_pubkey": "CAISIQORrrkemj8TYd13ahMfvQb7wCiKxom9oxBLFrvsRhgZAg==",
+  "consensus_type": "poa",
+  "encryption_type": "public",
+  "cipher_key": "8630970e0d0fab40c2c83b7ca981ea88b2ef6152e352ad32b69488f043c9a94c",
+  "app_key": "group_timeline",
+  "signature": "3046022100b43151899e03e29e8d4fa58d99d748f819ae20ba866e28786de8dc1127565f0e022100c5464c5f66930e1428e4927855374109afb32d526c095799b6bb3e6d84f988bd"
  }
 }
