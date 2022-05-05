@@ -2,10 +2,16 @@ import os
 import datetime
 import json
 from officy import JsonFile, Dir, File, Stime
+from rumpy import RumClient
 
 father_dir = os.path.dirname(os.path.dirname(__file__))
 seedsfile = os.path.join(father_dir, "data", "seeds.json")
 infofile = os.path.join(father_dir, "data", "groupsinfo.json")
+
+FLAG_JOINGROUPS = True
+PORT = 58356
+if FLAG_JOINGROUPS:
+    bot = RumClient(port=PORT)
 
 
 def search_groups(blocks_num=50, last_update_days=-30):
@@ -43,6 +49,10 @@ def init_mdfile(gids):
 
         if groupsinfo[gid]["abandoned"]:
             continue
+
+        # join the groups
+        if FLAG_JOINGROUPS:
+            bot.group.join(seed)
 
         lines.extend(
             [
